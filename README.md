@@ -1,4 +1,5 @@
 # hop-hop-jump-detection
+<img width="3467" height="1632" alt="Tamnaneun_code_ico" src="https://github.com/user-attachments/assets/6f43c006-e035-4e21-931b-c475094ccde7" />
 
 웹캠과 **MediaPipe Pose**를 이용해 사용자의 점프와 앉기 동작을 실시간으로 감지하고, 이를 키보드 입력으로 변환하는 프로젝트입니다.
 
