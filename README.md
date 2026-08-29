@@ -280,57 +280,6 @@ velocity = (previous_y - current_y) / dt
 
 ---
 
-## 상태 표시
-
-프로그램 화면에서는 다음과 같은 정보를 확인할 수 있습니다.
-
-```text
-STATUS: READY
-FPS: 60.0
-
-Jump: 3
-Duck: 2
-
-Knee: 174.2
-Up speed: 0.031
-Rise: 0.002
-Drop: 0.001
-```
-
-### STATUS
-
-현재 프로그램의 상태입니다.
-
-```text
-CALIBRATING
-READY
-JUMP!
-DUCK!
-NO PERSON
-```
-
-### FPS
-
-카메라에서 초당 처리되는 프레임 수입니다.
-
-### Knee
-
-현재 무릎 각도입니다.
-
-### Up speed
-
-몸이 위쪽으로 이동하는 속도입니다.
-
-### Rise
-
-평상시보다 몸이 얼마나 올라갔는지를 나타냅니다.
-
-### Drop
-
-평상시보다 몸이 얼마나 내려갔는지를 나타냅니다.
-
----
-
 ## 민감도 조절
 
 환경이나 카메라 위치에 따라 감지 민감도를 조절할 수 있습니다.
