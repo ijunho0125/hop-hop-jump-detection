@@ -396,9 +396,3 @@ AI 자세 추정
 ```
 
 즉, 컴퓨터 비전과 실시간 동작 분석을 이용해 사용자의 몸 자체를 하나의 게임 컨트롤러로 사용하는 프로젝트입니다.
-
----
-
-## License
-
-This project is for educational and experimental purposes.
